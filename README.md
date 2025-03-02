@@ -22,9 +22,9 @@ A showcase of my professional certifications in **AI, Cloud, and Data Science**.
 ![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanacharya045&show_icons=true&theme=radical)  
 
 ## 🚀 Skills  
-![Python](https://img.shields.io/badge/Python-Intermediate-blue?logo=python)  
-![Power BI](https://img.shields.io/badge/Power%20BI-Advanced-yellow?logo=powerbi)  
-![Azure](https://img.shields.io/badge/Azure-Expert-blue?logo=microsoft)  
+![Python](https://img.shields.io/badge/Python-Basic-blue?logo=python)  
+![Power BI](https://img.shields.io/badge/Power%20BI-Intermediate-yellow?logo=powerbi)  
+![Azure](https://img.shields.io/badge/Azure-Basic-blue?logo=microsoft)  
 
 
 
