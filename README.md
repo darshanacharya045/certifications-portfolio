@@ -1,6 +1,8 @@
-## 📜 Certifications
+# 🎓 My Certifications  
 
-Here are some of the certifications I have earned:
+A showcase of my professional certifications in **AI, Cloud, and Data Science**.  
+
+## 📜 Certifications  
 
 | Certification | Issuer | Badge |
 |--------------|--------|-------|
