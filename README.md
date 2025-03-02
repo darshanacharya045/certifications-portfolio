@@ -18,3 +18,8 @@ A showcase of my professional certifications in **AI, Cloud, and Data Science**.
 | SQL Advanced | HackerRank | ![SQL Advanced](https://img.shields.io/badge/SQL-Advanced-green?logo=hackerrank) |
 
 
+## 📊 GitHub Stats  
+![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=darshanacharya045&show_icons=true&theme=radical)  
+
+
+
